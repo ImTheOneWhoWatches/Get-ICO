@@ -1,9 +1,0 @@
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.csproj.AssemblyReference.cache
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.Properties.Resources.resources
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.csproj.GenerateResource.cache
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.csproj.CoreCompileInputs.cache
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\bin\Debug\GrabICO.exe
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\bin\Debug\GrabICO.pdb
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.Form1.resources
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.exe
-C:\Users\Inbou\OneDrive\Desktop\app\Code\C#\Get ICO\.vs\GrabICO\obj\Debug\GrabICO.pdb
